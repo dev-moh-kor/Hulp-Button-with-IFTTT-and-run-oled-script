@@ -1,3 +1,5 @@
+![screen shot 2017-07-06 at 01 31 09](https://user-images.githubusercontent.com/23449715/27889175-f3fc9d3c-61ea-11e7-92f9-6fb525cd0135.png)
+
 #!/usr/bin/python
 import RPi.GPIO as GPIO
 import time
